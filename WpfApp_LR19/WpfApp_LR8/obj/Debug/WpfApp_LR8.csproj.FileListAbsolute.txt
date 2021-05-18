@@ -1,0 +1,15 @@
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\bin\Debug\WpfApp_LR8.exe.config
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\bin\Debug\WpfApp_LR8.exe
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\bin\Debug\WpfApp_LR8.pdb
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\WpfApp_LR8.csprojAssemblyReference.cache
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\MainWindow.g.cs
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\App.g.cs
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\WpfApp_LR8_MarkupCompile.cache
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\WpfApp_LR8_MarkupCompile.lref
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\MainWindow.baml
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\WpfApp_LR8.g.resources
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\WpfApp_LR8.Properties.Resources.resources
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\WpfApp_LR8.csproj.GenerateResource.cache
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\WpfApp_LR8.csproj.CoreCompileInputs.cache
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\WpfApp_LR8.exe
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab8\WpfApp_LR8\WpfApp_LR8\obj\Debug\WpfApp_LR8.pdb
